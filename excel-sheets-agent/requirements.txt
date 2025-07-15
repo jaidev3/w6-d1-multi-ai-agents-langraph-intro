@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+pandas
+openpyxl
+streamlit
+python-dotenv
+fuzzywuzzy
+python-levenshtein
+langchain_experimental
+xlrd
+tabulate
